@@ -2,10 +2,10 @@ from setuptools import setup, find_packages
 
 import sys
 sys.path.insert(0, '.')
-from datautil import __version__, __doc__ as __long_description__
+from datautildate import __version__, __doc__ as __long_description__
 
 setup(
-    name='datautil-date',
+    name='datautildate',
     version=__version__,
     license='MIT',
     description='Date Utilities for Data Work',

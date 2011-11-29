@@ -1,4 +1,4 @@
-from datautil.date import *
+from datautildate.date import *
 
 import datetime
 
